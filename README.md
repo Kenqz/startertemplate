@@ -1,3 +1,2 @@
-Vue/vuex starter boilerplate / template
+vue boilerplate / template
 
-enjoy :)
